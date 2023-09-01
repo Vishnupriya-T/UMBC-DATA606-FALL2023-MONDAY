@@ -1,12 +1,13 @@
 # Vishnu Priya
 
+<img align="right" src="photo.jpg" alt="alt text" width="110" height="130">
+
 ## Contact
 
 * Email: vthanda1@umbc.edu
 * Phone: +1(604) 302-1394
 * GitHub: github/Vishnupriya1032
 
-<img align="right" src="photo.jpg" alt="alt text" width="110" height="130">
 
 ## Education
 
