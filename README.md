@@ -6,7 +6,7 @@
 * Phone: +1(604) 302-1394
 * GitHub: github/Vishnupriya1032
 
-![Priya](photo.jpg)
+![Priya](photo.jpg =250x250)
 
 ## Education
 
