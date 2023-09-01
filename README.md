@@ -35,6 +35,10 @@
 
 ## Projects
 
+* [Semantic Segmentation with CV](https://github.com/Vishnupriya-T/semantic_segmentation)
+    * Python, OpenCV, Resnet, Computer Vision
+    * Performed semantic segmentation with resnet and other deep learning neural networks.
+    * Leveraged PyTorch and Cityscapes dataset for the project.
 * Analysis of Droughts in California
     * Python, XGBoost, SVM, Random Forest, Ensemble Techniques
     * Examined 21 years of meteorological indicators' data that describes the drought severity of California Counties.
