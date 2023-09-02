@@ -12,7 +12,7 @@
 
 ## Education
 
-* Master's in Data Science, University of Maryland, Baltimore County, Expected May 2023
+* Master's in Data Science, University of Maryland, Baltimore County, Expected Dec 2023
     * GPA: 4.0
     * Coursework: Machine Learning, Deep Learning, Data Structures and Algorithms; Big Data, Statistical Analysis.
 
@@ -60,3 +60,7 @@
 * Machine Learning: Python, Statistical Analysis, Regression and Bayesian Models, SQL.
 * Devops: Jenkins, Kubernetes, Docker, Docker Compose, Ansible, Chef
 * Technology: Git, AWS, GCP, Azure, Grafana, Kibana, Prometheus
+* 
+
+## Certifications
+* Certified Kubernetes Administrator(CKA) by CNCF.
