@@ -1,6 +1,6 @@
 <img align="right" src="photo.jpg" alt="alt text" width="110" height="130">
 
-# Vishnu Priya
+# Vishnu Priya Thanda
 
 
 ## Contact
