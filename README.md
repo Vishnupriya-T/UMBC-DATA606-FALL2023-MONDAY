@@ -7,7 +7,8 @@
 
 * Email: vthanda1@umbc.edu
 * Phone: +1(604) 302-1394
-* GitHub: github/Vishnupriya1032
+* GitHub: [github/Vishnupriya1032](https://github.com/Vishnupriya-T)
+* Linkedin: [Vishnupriya-T](https://www.linkedin.com/in/vishnu-priya-t/)
 
 
 ## Education
@@ -15,6 +16,10 @@
 * Master's in Data Science, University of Maryland, Baltimore County, Expected Dec 2023
     * GPA: 4.0
     * Coursework: Machine Learning, Deep Learning, Data Structures and Algorithms; Big Data, Statistical Analysis.
+ 
+* Bacherlos of Technology, RGUKT, May 2020
+    * GPA: 3.9
+    * Coursework:Data Structures and Algorithms; Big Data, Operating Systems.
 
 ## Work Experience
 
