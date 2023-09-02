@@ -60,7 +60,9 @@
 * Machine Learning: Python, Statistical Analysis, Regression and Bayesian Models, SQL.
 * Devops: Jenkins, Kubernetes, Docker, Docker Compose, Ansible, Chef
 * Technology: Git, AWS, GCP, Azure, Grafana, Kibana, Prometheus
-* 
+
+## Personal Interests
+* Dancing, Painting.
 
 ## Certifications
 * Certified Kubernetes Administrator(CKA) by CNCF.
